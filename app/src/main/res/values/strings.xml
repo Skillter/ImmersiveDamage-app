@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Immersive Damage</string>
+    <string name="toggle_switch">Enable</string>
+    <string name="description">This application runs a UDP server and listens for damage packets. After receiving one, starts vibrating the phone for a specific period of time and strength.</string>
+    <string name="port_menu">Change the port</string>
+    <string name="about_menu">About</string>
+    <string name="ipv4_desc">In the mod settings change IP to:</string>
+</resources>
