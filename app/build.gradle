@@ -3,12 +3,13 @@ plugins {
 }
 
 android {
-    compileSdk 30
+    compileSdk 33
 
     defaultConfig {
         applicationId "skillter.immersivedamage"
         minSdk 23
-        targetSdk 30
+        targetSdk 33
+        //noinspection OldTargetApi
         versionCode 1
         versionName "1.0.0"
 
